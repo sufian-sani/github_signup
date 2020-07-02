@@ -1,0 +1,63 @@
+/*Header Section*/
+#header{
+	background-color: #24292E;
+}
+#navbarNav{}
+#navbarNav ul{}
+#navbarNav ul li{}
+form{}
+form .form-control{}
+form a{
+	margin-top: -6px;
+}
+/*form body section*/
+#form-body{
+	background: url(../img/simple-codelines.svg),#2b3137;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#form-body .row h1 {
+    font-size: 64px;
+    color: #fff;
+}
+#form-body .row h1 span {
+    display: block;
+}
+#form-body .row .github {
+    font-size: 20px;
+    font-weight: 400;
+    color: #ffffff99;
+}
+.signinbox {
+    background-color: #fff;
+    border-radius: 5px;
+}
+#signupform input {
+    height: 50px;
+}
+.signinbox label {
+    font-weight: bold;
+    color: #52565A;
+    font-size: 14px;
+}
+.signinbox #passwordhelp p{
+    color: #24292e;
+    font-size: 12px;
+}
+.signinbox .btn-lg{
+    padding: 18px 32px;
+    background-color: #2ebc4f;
+    border-color: #2ebc4f;
+    color: #fff;
+    font-size: large;
+    font-weight: bold;
+}
+.signinbox button:hover{
+	background-color: #28A745;
+}
+#signupform .form-control-note {
+    font-size: 12px;
+    color: #6a737d;
+}
